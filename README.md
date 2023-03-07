@@ -7,6 +7,7 @@
 * [3. Protótipos](#3-prototipos)
 * [4. Interface](#4-interface)
 * [5. Objetivos alcançados](#5-objetivos-alcancados)
+* [6. Link do projeto](#Link-direto-para-a-página-do-projeto)
 
 ***
 
@@ -52,4 +53,7 @@ Considerando que os filmes/cartazes do Studio Ghibli costumam conter bastante in
 ✔️ UI: Permite ordenar dados por um ou mais campos (asc e desc).<br>
 ✔️ UI: Permite filtrar dados com base em uma condição.<br>
 ✔️ UI: É _responsivo_.<br>
+
+## 6. Link direto para a página do projeto
+ <a href="https://stellazen.github.io/SAP009-data-lovers/src/">Clique aqui ✨</a>
 
