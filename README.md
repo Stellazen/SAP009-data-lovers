@@ -3,11 +3,11 @@
 ## Índice
 
 * [1. Resumo do projeto](#1-resumo-do-projeto)
-* [2. Histórias de ususários](#2-historias-de-usuarios)
-* [3. Protótipos](#3-prototipos)
+* [2. Histórias de usuários](#2-histórias-de-usuários)
+* [3. Protótipos](#3-protótipos)
 * [4. Interface](#4-interface)
-* [5. Objetivos alcançados](#5-objetivos-alcancados)
-* [6. Link do projeto](#Link-direto-para-a-página-do-projeto)
+* [5. Objetivos alcançados](#5-objetivos-alcançados)
+* [6. Link do projeto](#6-link-do-projeto)
 
 ***
 
@@ -15,7 +15,7 @@
 
 O objetivo deste projeto foi desenvolver uma página contendo um conjunto de dados que pudessem ser filtrados e ordendos para atender às necessidades do nosso usuário.
 
-## 2. Histórias de ususários
+## 2. Histórias de Usuários
 
 Nossos usuários são admiradores do Studio Ghibli que procuram mais informação sobre os filmes, como produtores, diretores, ano de lançamento e score.
 
@@ -54,6 +54,7 @@ Considerando que os filmes/cartazes do Studio Ghibli costumam conter bastante in
 ✔️ UI: Permite filtrar dados com base em uma condição.<br>
 ✔️ UI: É _responsivo_.<br>
 
-## 6. Link direto para a página do projeto
+## 6. Link do projeto
+
  <a href="https://stellazen.github.io/SAP009-data-lovers/src/">Clique aqui ✨</a>
 
