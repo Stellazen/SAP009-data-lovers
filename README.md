@@ -28,27 +28,28 @@ Inicialmente foi feito um protótipo de baixa fidalidade usando papel e lápis. 
 
 Considerando que os filmes/cartazes do Studio Ghibli costumam conter bastante informação visual, colocamos como prioridade criar uma interface minimalista, com desgin de fácil navegação e que se adequasse a todos os tipos de tela. 
 
-![IMG_5755 2](https://user-images.githubusercontent.com/107154514/223210908-bee84f59-cc92-475e-8b04-7f0e73fb9ca8.jpg)
+<img src="https://user-images.githubusercontent.com/107154514/223210908-bee84f59-cc92-475e-8b04-7f0e73fb9ca8.jpg" width="500px">
 
-![PHOTO-2023-03-06-16-19-26 2](https://user-images.githubusercontent.com/107154514/223211031-38c93252-f96d-40b5-ae3c-659b216cd889.jpg)
+<img src="https://user-images.githubusercontent.com/107154514/223211031-38c93252-f96d-40b5-ae3c-659b216cd889.jpg" width="300px"><img src="https://user-images.githubusercontent.com/107154514/223211116-7c67c0f5-584e-41ee-98b5-5f77345a6372.jpg" width="300px">
 
-![PHOTO-2023-03-06-16-19-46 2](https://user-images.githubusercontent.com/107154514/223211116-7c67c0f5-584e-41ee-98b5-5f77345a6372.jpg)
+
+
 
 
 ## 5. Objetivos alcançados
 
 ✔️ Usar VanillaJS. <br>
 ✔️ Passa pelo linter (`npm run pretest`) <br>
-✔️ Passa pelos testes (`npm test`) <br>
+✔️ Passa pelos testes (`npm test`)<br>
 ✔️ Testes unitários cobrem um mínimo de 70% de statements, functions, lines e
-  branches. <br>
-✔️ Inclui uma _definição de produto_ clara e informativa no `README.md`. <br>
-✔️ Inclui histórias de usuário no `README.md`. <br>
-✔️ Inclui rascunho da solução (protótipo de baixa fidelidade) no `README.md`. <br>
+  branches.<br>
+✔️ Inclui uma _definição de produto_ clara e informativa no `README.md`.<br>
+✔️ Inclui histórias de usuário no `README.md`.<br>
+✔️ Inclui rascunho da solução (protótipo de baixa fidelidade) no `README.md`.<br>
 ✔️ Inclui uma lista de problemas detectados nos testes de usabilidade no
-  `README.md`. <br>
-✔️ UI: Mostra lista/tabela/etc com dados e/ou indicadores. <br>
-✔️ UI: Permite ordenar dados por um ou mais campos (asc e desc). <br>
-✔️ UI: Permite filtrar dados com base em uma condição. <br>
-✔️ UI: É _responsivo_. <br>
+  `README.md`.<br>
+✔️ UI: Mostra lista/tabela/etc com dados e/ou indicadores.<br>
+✔️ UI: Permite ordenar dados por um ou mais campos (asc e desc).<br>
+✔️ UI: Permite filtrar dados com base em uma condição.<br>
+✔️ UI: É _responsivo_.<br>
 
