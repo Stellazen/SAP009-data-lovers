@@ -1,4 +1,4 @@
-export const ordenar = (films, ordem) => {
+export const ordenar = (films, ordem,) => {
 
   if(ordem === 'deAZ') {
     return films.sort((a,b) => a.title.localeCompare(b.title))

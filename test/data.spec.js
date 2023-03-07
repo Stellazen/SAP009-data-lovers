@@ -70,3 +70,5 @@ it('deve tirar a media de score',() =>{
   const resultado = calculo(filmes)
   expect(resultado).toEqual(90.75)
 })
+
+
