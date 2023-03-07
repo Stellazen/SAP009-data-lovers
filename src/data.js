@@ -57,3 +57,8 @@ export function filtroDiretor (filmes, nome) {
 function filtrarPorDiretor(item, nome) {
   return item.director === nome
 }
+
+export function calculo(filmes){
+  const somaScore = filmes.reduce((a,b) => a + Number(b.rt_score),0)
+  return somaScore / filmes.length
+}
