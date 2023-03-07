@@ -34,7 +34,7 @@ Considerando que os filmes/cartazes do Studio Ghibli costumam conter bastante in
 
 <img src="https://user-images.githubusercontent.com/107154514/223210908-bee84f59-cc92-475e-8b04-7f0e73fb9ca8.jpg" width="500px">
 
-![IMG_5755 2](https://user-images.githubusercontent.com/107154514/223521714-86bffca9-1324-42b8-9032-d7cd4da6a93c.jpg)
+![layout_celular](https://user-images.githubusercontent.com/107154514/223522542-3c7a2023-8b40-413d-98e3-642bd025d69e.jpg)
 
 
 ## 5. Objetivos alcançados
