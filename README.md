@@ -15,9 +15,11 @@
 
 O objetivo deste projeto foi desenvolver uma página contendo um conjunto de dados que pudessem ser filtrados e ordendos para atender às necessidades do nosso usuário.
 
+
 ## 2. Histórias de Usuários
 
 Nossos usuários são admiradores do Studio Ghibli que procuram mais informação sobre os filmes, como produtores, diretores, ano de lançamento e score.
+
 
 ## 3. Protótipos
 
@@ -25,16 +27,14 @@ Inicialmente foi feito um protótipo de baixa fidalidade usando papel e lápis. 
 
 ![PHOTO-2023-03-06-16-11-43](https://user-images.githubusercontent.com/107154514/223208234-0a9db001-cbe9-4474-a880-37a959e0dc3f.jpg)
 
+
 ## 4. Interface
 
 Considerando que os filmes/cartazes do Studio Ghibli costumam conter bastante informação visual, colocamos como prioridade criar uma interface minimalista, com desgin de fácil navegação e que se adequasse a todos os tipos de tela. 
 
 <img src="https://user-images.githubusercontent.com/107154514/223210908-bee84f59-cc92-475e-8b04-7f0e73fb9ca8.jpg" width="500px">
 
-<img src="https://user-images.githubusercontent.com/107154514/223211031-38c93252-f96d-40b5-ae3c-659b216cd889.jpg" width="300px"><img src="https://user-images.githubusercontent.com/107154514/223211116-7c67c0f5-584e-41ee-98b5-5f77345a6372.jpg" width="300px">
-
-
-
+![IMG_5755 2](https://user-images.githubusercontent.com/107154514/223521714-86bffca9-1324-42b8-9032-d7cd4da6a93c.jpg)
 
 
 ## 5. Objetivos alcançados
@@ -53,6 +53,7 @@ Considerando que os filmes/cartazes do Studio Ghibli costumam conter bastante in
 ✔️ UI: Permite ordenar dados por um ou mais campos (asc e desc).<br>
 ✔️ UI: Permite filtrar dados com base em uma condição.<br>
 ✔️ UI: É _responsivo_.<br>
+
 
 ## 6. Link do projeto
 
