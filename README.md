@@ -32,7 +32,7 @@ Inicialmente foi feito um protótipo de baixa fidalidade usando papel e lápis. 
 
 Considerando que os filmes/cartazes do Studio Ghibli costumam conter bastante informação visual, colocamos como prioridade criar uma interface minimalista, com desgin de fácil navegação e que se adequasse a todos os tipos de tela. 
 
-<img src="https://user-images.githubusercontent.com/107154514/223210908-bee84f59-cc92-475e-8b04-7f0e73fb9ca8.jpg" width="500px">- - - - - - - - - - - - - - - -![layout_celular](https://user-images.githubusercontent.com/107154514/223522542-3c7a2023-8b40-413d-98e3-642bd025d69e.jpg)
+<img src="https://user-images.githubusercontent.com/107154514/223210908-bee84f59-cc92-475e-8b04-7f0e73fb9ca8.jpg" width="500px">-------------[layout_celular](https://user-images.githubusercontent.com/107154514/223522542-3c7a2023-8b40-413d-98e3-642bd025d69e.jpg)
 
 
 ## 5. Objetivos alcançados
