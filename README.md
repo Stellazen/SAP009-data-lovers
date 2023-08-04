@@ -55,5 +55,5 @@ Considerando que os filmes/cartazes do Studio Ghibli costumam conter bastante in
 
 ## 6. Link do projeto
 
- <a href="https://stellazen.github.io/SAP009-data-lovers/src/">Clique aqui ✨</a>
+ <a href="https://stellazen.github.io/data-lovers-ghibli/src/">Clique aqui ✨</a>
 
