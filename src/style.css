@@ -81,6 +81,7 @@
     height: 280px;
     font-family: var(--fonte-titulo);
     font-size: 10px;
+    cursor:pointer;
 }
 
 img{
